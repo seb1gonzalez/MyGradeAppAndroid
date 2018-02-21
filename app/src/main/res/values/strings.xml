@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGrade</string>
+    <string name="title_activity_grade_up">GradeUpActivity</string>
+</resources>
